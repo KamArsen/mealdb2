@@ -1,0 +1,47 @@
+.lot{
+    display: block;
+    margin: auto;
+    
+}
+.l2{
+    display: flex;
+    width: 306px;
+    height: 356px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.meni{
+    margin: auto;
+    width: 1300px;
+}
+.foodcartt{
+    margin-left: 30px;
+    margin-top: 20px;
+    background-color: white;
+    width: 306px;
+    height: 354px;
+    border-radius: 12px;
+    text-align: start;
+    p{
+        color: #474747;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+   
+}
+.l0t{
+    background-color: rgb(249, 246, 246);
+    width: 1400px;
+    height: 1200px;
+    margin-left: -60px;
+}
+.oi{
+text-align: center;
+margin-top: 60px;
+p{
+    color:  #414536;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+}
+.h2

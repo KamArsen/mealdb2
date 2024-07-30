@@ -1,0 +1,16 @@
+.search{
+    margin-left: 220px;
+}
+main .h1 {
+    font-size: 100px;
+    color: black;
+   line-height: 100px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   margin-bottom: -10px;
+}
+main{
+    width: 1300px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
